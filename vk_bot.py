@@ -652,7 +652,7 @@ class VKBot:
             traceback.print_exc()
 
 # Настройки
-TOKEN = 'vk1.a.mkFpmi9u2ANOL-wVB9uINJebLwKAL6yZ_CKMrze8hCOrIfhEziM_ztMvg9EYPjDLiPZ8yvw6QV4hYOD32s_1NqkEFFXJgGNKBzDTm_HIVT7C5tnE8pb6UhvRPzPex1SFdCcy73p34rrW61rNjhSv_P0crezSbtEciiJP2ewka6NGBLA9An2qoU21Gr_BjkDb4ec-gptezz5m4vLk41P3Rw'
+TOKEN = 'vk1.a.6Om-_r3kzMpKtjtJAldQl8YkSc0oLCfTpPZ4KrvEg4O-pYm-VQTGGSxJ6g5Sih1-ezZOHqMWN6bJOZtay3wd2jR6ehVfnKGFnyTShgJ25TF_ZLtWCzrW4OwR3WRW1Gq54bZlhXxbNqYFz9zLwdvowSNcRqOcr0l3Uq9A4-PLRZPvit9HLS3CNgoFwWOkBWoRXoSMu0BR3n0Jd1D7k8s46A'
 TEACHER_ID = 144399762
 
 if __name__ == '__main__':
